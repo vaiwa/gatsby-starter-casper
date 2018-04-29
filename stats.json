@@ -1,65 +1,65 @@
 {
   "assetsByChunkName": {
     "path---tags-other": [
-      "path---tags-other-a7a92788f4eaab8248fb.js",
-      "path---tags-other-a7a92788f4eaab8248fb.js.map"
+      "path---tags-other-666e78378129d2443b89.js",
+      "path---tags-other-666e78378129d2443b89.js.map"
     ],
     "path---tags-programming": [
-      "path---tags-programming-30dfeeffb5572bbad0d9.js",
-      "path---tags-programming-30dfeeffb5572bbad0d9.js.map"
+      "path---tags-programming-d44505830e23fb5284b8.js",
+      "path---tags-programming-d44505830e23fb5284b8.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---categories-moar": [
-      "path---categories-moar-4305cc4743f14e1725c6.js",
-      "path---categories-moar-4305cc4743f14e1725c6.js.map"
+      "path---categories-moar-f47aa925018a339a8639.js",
+      "path---categories-moar-f47aa925018a339a8639.js.map"
     ],
     "path---tags-no-cover": [
-      "path---tags-no-cover-91cf1411ba160418bdc9.js",
-      "path---tags-no-cover-91cf1411ba160418bdc9.js.map"
+      "path---tags-no-cover-9c9e679f34f0a645e8e8.js",
+      "path---tags-no-cover-9c9e679f34f0a645e8e8.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-32f471fbaefc051faf8c.js",
       "component---src-layouts-index-jsx-32f471fbaefc051faf8c.js.map"
     ],
     "path---categories-tech": [
-      "path---categories-tech-e0d0337cd4cd10c2d588.js",
-      "path---categories-tech-e0d0337cd4cd10c2d588.js.map"
+      "path---categories-tech-77c75c0b3211ccde7c60.js",
+      "path---categories-tech-77c75c0b3211ccde7c60.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---bold-mage": [
-      "path---bold-mage-30c83bd7a27cc73941c9.js",
-      "path---bold-mage-30c83bd7a27cc73941c9.js.map"
+      "path---bold-mage-9caafff47c39bf9c18b5.js",
+      "path---bold-mage-9caafff47c39bf9c18b5.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---index": [
-      "path---index-e3bec18cd670b0d4bfdb.js",
-      "path---index-e3bec18cd670b0d4bfdb.js.map"
+      "path---index-a28d18a976b5373a4add.js",
+      "path---index-a28d18a976b5373a4add.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
     ],
     "path---big-sample-test": [
-      "path---big-sample-test-7e31f95ea92ee1f28825.js",
-      "path---big-sample-test-7e31f95ea92ee1f28825.js.map"
+      "path---big-sample-test-395d74c4be52637181d9.js",
+      "path---big-sample-test-395d74c4be52637181d9.js.map"
     ],
     "component---src-templates-author-jsx": [
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js",
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js.map"
     ],
     "commons": [
-      "commons-4b24ea5f72f704f3f0b4.js",
+      "commons-86f968010e8368a7da43.js",
       "build-js-styles.css",
-      "commons-4b24ea5f72f704f3f0b4.js.map",
+      "commons-86f968010e8368a7da43.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
@@ -79,26 +79,26 @@
       "component---src-templates-post-jsx-b12f4e533f80565aa0a2.js.map"
     ],
     "app": [
-      "app-cf496cd9e28b659f7506.js",
+      "app-934803336722dad89201.js",
       "build-js-styles.css",
-      "app-cf496cd9e28b659f7506.js.map",
+      "app-934803336722dad89201.js.map",
       "build-js-styles.css.map"
     ],
     "path---author-vaiwa": [
-      "path---author-vaiwa-6008bea541d39cf3e8f5.js",
-      "path---author-vaiwa-6008bea541d39cf3e8f5.js.map"
+      "path---author-vaiwa-b3955ad3a999162c2a9b.js",
+      "path---author-vaiwa-b3955ad3a999162c2a9b.js.map"
     ],
     "path---tags-huge": [
-      "path---tags-huge-081c561cf9a209051295.js",
-      "path---tags-huge-081c561cf9a209051295.js.map"
+      "path---tags-huge-ce903b3e112357c926df.js",
+      "path---tags-huge-ce903b3e112357c926df.js.map"
     ],
     "path---tags-test": [
-      "path---tags-test-51106de3385ff3c23bff.js",
-      "path---tags-test-51106de3385ff3c23bff.js.map"
+      "path---tags-test-0ee37f90129604eaff24.js",
+      "path---tags-test-0ee37f90129604eaff24.js.map"
     ],
     "path---tags-stuff": [
-      "path---tags-stuff-9c793c9792e76af0157a.js",
-      "path---tags-stuff-9c793c9792e76af0157a.js.map"
+      "path---tags-stuff-28ee6391436cf53d0031.js",
+      "path---tags-stuff-28ee6391436cf53d0031.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
