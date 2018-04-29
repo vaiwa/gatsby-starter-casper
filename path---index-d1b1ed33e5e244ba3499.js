@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{415:function(a,e){a.exports={data:{authors:{edges:[{node:{id:"vaiwa",name:"Jan Vaiwa Návrat",image:"https://vaiwa.github.io/logos/vaiwa-300.png",url:"http://vaiwa.cz/",bio:"De omnibus dubitandum."}}]}},pathContext:{nodes:[{node:{frontmatter:{title:"vaiwa.cz",tags:["programming"],cover:"/images/blog-cover.jpg",date:"2018-04-28",category:"news",author:"vaiwa"},fields:{slug:"/vaiwa-cz"},excerpt:"New Vaiwa.cz Wellcome!",timeToRead:1}}],page:1,pages:1,total:1,limit:10}}}});
+//# sourceMappingURL=path---index-d1b1ed33e5e244ba3499.js.map

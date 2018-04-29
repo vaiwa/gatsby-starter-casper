@@ -1,61 +1,41 @@
 {
   "assetsByChunkName": {
-    "path---tags-other": [
-      "path---tags-other-666e78378129d2443b89.js",
-      "path---tags-other-666e78378129d2443b89.js.map"
+    "path---categories-news": [
+      "path---categories-news-d3d6dab955076ccb1ba7.js",
+      "path---categories-news-d3d6dab955076ccb1ba7.js.map"
     ],
     "path---tags-programming": [
-      "path---tags-programming-d44505830e23fb5284b8.js",
-      "path---tags-programming-d44505830e23fb5284b8.js.map"
+      "path---tags-programming-11dd784e4f5b26adc3af.js",
+      "path---tags-programming-11dd784e4f5b26adc3af.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---categories-moar": [
-      "path---categories-moar-f47aa925018a339a8639.js",
-      "path---categories-moar-f47aa925018a339a8639.js.map"
-    ],
-    "path---tags-no-cover": [
-      "path---tags-no-cover-9c9e679f34f0a645e8e8.js",
-      "path---tags-no-cover-9c9e679f34f0a645e8e8.js.map"
-    ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-32f471fbaefc051faf8c.js",
       "component---src-layouts-index-jsx-32f471fbaefc051faf8c.js.map"
     ],
-    "path---categories-tech": [
-      "path---categories-tech-77c75c0b3211ccde7c60.js",
-      "path---categories-tech-77c75c0b3211ccde7c60.js.map"
-    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
-    ],
-    "path---bold-mage": [
-      "path---bold-mage-9caafff47c39bf9c18b5.js",
-      "path---bold-mage-9caafff47c39bf9c18b5.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---index": [
-      "path---index-a28d18a976b5373a4add.js",
-      "path---index-a28d18a976b5373a4add.js.map"
-    ],
-    "path---big-sample-test": [
-      "path---big-sample-test-395d74c4be52637181d9.js",
-      "path---big-sample-test-395d74c4be52637181d9.js.map"
+      "path---index-d1b1ed33e5e244ba3499.js",
+      "path---index-d1b1ed33e5e244ba3499.js.map"
     ],
     "component---src-templates-author-jsx": [
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js",
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js.map"
     ],
     "commons": [
-      "commons-3d73a2430ec025dab73d.js",
+      "commons-f3a1ea9269c2bdb15de2.js",
       "build-js-styles.css",
-      "commons-3d73a2430ec025dab73d.js.map",
+      "commons-f3a1ea9269c2bdb15de2.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
@@ -75,26 +55,18 @@
       "component---src-templates-post-jsx-b12f4e533f80565aa0a2.js.map"
     ],
     "app": [
-      "app-61d793355f7e45bda922.js",
+      "app-92a05892beaeda75400a.js",
       "build-js-styles.css",
-      "app-61d793355f7e45bda922.js.map",
+      "app-92a05892beaeda75400a.js.map",
       "build-js-styles.css.map"
     ],
     "path---author-vaiwa": [
-      "path---author-vaiwa-b3955ad3a999162c2a9b.js",
-      "path---author-vaiwa-b3955ad3a999162c2a9b.js.map"
+      "path---author-vaiwa-4e9f93c313129a5a06f4.js",
+      "path---author-vaiwa-4e9f93c313129a5a06f4.js.map"
     ],
-    "path---tags-huge": [
-      "path---tags-huge-ce903b3e112357c926df.js",
-      "path---tags-huge-ce903b3e112357c926df.js.map"
-    ],
-    "path---tags-test": [
-      "path---tags-test-0ee37f90129604eaff24.js",
-      "path---tags-test-0ee37f90129604eaff24.js.map"
-    ],
-    "path---tags-stuff": [
-      "path---tags-stuff-28ee6391436cf53d0031.js",
-      "path---tags-stuff-28ee6391436cf53d0031.js.map"
+    "path---vaiwa-cz": [
+      "path---vaiwa-cz-f1a5331cad3f46067d7a.js",
+      "path---vaiwa-cz-f1a5331cad3f46067d7a.js.map"
     ]
   }
 }
