@@ -44,10 +44,6 @@
       "path---index-a28d18a976b5373a4add.js",
       "path---index-a28d18a976b5373a4add.js.map"
     ],
-    "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
-      "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
-    ],
     "path---big-sample-test": [
       "path---big-sample-test-395d74c4be52637181d9.js",
       "path---big-sample-test-395d74c4be52637181d9.js.map"
@@ -57,9 +53,9 @@
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js.map"
     ],
     "commons": [
-      "commons-ff01c2dd6260f9faf4d8.js",
+      "commons-3d73a2430ec025dab73d.js",
       "build-js-styles.css",
-      "commons-ff01c2dd6260f9faf4d8.js.map",
+      "commons-3d73a2430ec025dab73d.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
@@ -79,9 +75,9 @@
       "component---src-templates-post-jsx-b12f4e533f80565aa0a2.js.map"
     ],
     "app": [
-      "app-934803336722dad89201.js",
+      "app-61d793355f7e45bda922.js",
       "build-js-styles.css",
-      "app-934803336722dad89201.js.map",
+      "app-61d793355f7e45bda922.js.map",
       "build-js-styles.css.map"
     ],
     "path---author-vaiwa": [
@@ -99,10 +95,6 @@
     "path---tags-stuff": [
       "path---tags-stuff-28ee6391436cf53d0031.js",
       "path---tags-stuff-28ee6391436cf53d0031.js.map"
-    ],
-    "path---about": [
-      "path---about-a0e39f21c11f6a62c5ab.js",
-      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
