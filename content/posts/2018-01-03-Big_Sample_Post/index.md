@@ -1,6 +1,7 @@
 ---
 title: "Big Test"
 category: "moar"
+author: "vaiwa"
 date: "2018-01-03"
 slug: "Big-Sample_Test"
 tags:

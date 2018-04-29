@@ -13,8 +13,6 @@ This starter also serves as example for the [Gatsby-Pagination](https://github.c
 
 [Demo website.](https://haysclark.github.io/gatsby-starter-casper/)
 
-![Screenshot](docs/screenshot.png)
-
 ## GatsbyJS V1
 
 This starter is based on GatsbyJS V1, which brings progressive web app features such as automatic code and data splitting (by route), prefetching, with service worker/offline-first support and PRPL pattern.
