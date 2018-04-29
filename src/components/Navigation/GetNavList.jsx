@@ -1,4 +1,3 @@
-// import FontIcon from "react-md/lib/FontIcons";
 import Link from "gatsby-link";
 
 function GetNavList(config) {
@@ -16,6 +15,7 @@ function GetNavList(config) {
   //   }
   // ];
 
+  NavList.push({ subheader: true, primaryText: "contact" });
   if (config.userLinks) {
     config.userLinks.forEach(link => {
       NavList.push({
@@ -27,13 +27,13 @@ function GetNavList(config) {
   }
 
   NavList.push({ divider: true });
+  NavList.push({ subheader: true, primaryText: "projects" });
 
-  // NavList.push({
-  //   primaryText: "About",
-  //   // LeftIcon: <FontIcon>person</FontIcon>,
-  //   component: Link,
-  //   to: "/about/"
-  // });
+  NavList.push({
+    primaryText: "Deps",
+    component: "a",
+    href: "http://deps.vaiwa.cz/"
+  });
 
   return NavList;
 }

@@ -21,7 +21,7 @@ module.exports = {
     "https://www.facebook.com/vaiwacz",
     "https://twitter.com/vaiwacz",
   ],
-  postDefaultCategoryID: "Tech", // Default category for posts.
+  postDefaultCategoryID: "News", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
   userLinks: [
     {
@@ -47,7 +47,7 @@ module.exports = {
   ],
   // Copyright string for the footer of the website and RSS feed.
   copyright: { label: "Jan Vaiwa Návrat" },
-  themeColor: "#0000ff", // Used for setting manifest and progress theme colors.
-  backgroundColor: "#ff0000", // Used for setting manifest background color.
+  // themeColor: "#0000ff", // Used for setting manifest and progress theme colors.
+  // backgroundColor: "#ff0000", // Used for setting manifest background color.
   promoteGatsby: false
 };

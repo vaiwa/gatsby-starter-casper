@@ -3,11 +3,13 @@ import GetNavList from "./GetNavList";
 import "./Navigation.css";
 import SubscribeButton from "../SubscribeButton/SubscribeButton";
 
-const Divider = () => null;
+const Divider = () => {
+  return <br />;
+};
 
 const Subheader = props => {
   const { primaryText } = props;
-  return <h3>{primaryText}</h3>;
+  return <h5>{primaryText}</h5>;
 };
 
 const ListItem = props => {
